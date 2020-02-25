@@ -9,3 +9,18 @@
   box-shadow: none;
   border:none;
 }
+
+.footer-background {
+  background-color: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: darkslategray;
+}
+
+.footer-background2 {
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  color: slategrey;
+}
+
